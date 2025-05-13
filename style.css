@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    text-align: center;
+    line-height: 100px;
+    margin-top: 20px;
+}
